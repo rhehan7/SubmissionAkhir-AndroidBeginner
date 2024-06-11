@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Desa Wisata</string>
+
+    <string name="village_name">Tourist Village Name</string>
+    <string name="description">Description</string>
+    <string name="about">About</string>
+    <string name="detail_activity">Detail Activity</string>
+    <string name="logo_name">Proyek Submission Android</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="location">Location</string>
+    <string name="village_charm">Village Charm</string>
+    <string name="content_of_location">content of location</string>
+    <string name="content_of_village_charm">content of village charm</string>
+    <string name="email">rhehan7muzaky@gmail.com</string>
+    <string name="profile_name">Rhehan Muzaky</string>
+    <string name="text_share">Share to Your Friend</string>
+    <string name="text_village_image">villageImage</string>
+    <string name="text_profile_picture">profile picture</string>
+
+    <string-array name="data_name">
+        <item>Kampung Naga</item>
+        <item>Kepulauan Togean</item>
+        <item>Desa Tompobulu</item>
+        <item>Desa Sade</item>
+        <item>Desa Ubud</item>
+        <item>Desa Pujon Kidul</item>
+        <item>Kampung Budaya Sindang Barang</item>
+        <item>Desa Nglanggeran</item>
+        <item>Desa Waerebo</item>
+        <item>Desa Penglipuran</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Desa Neglasari, Kec. Salawu, Kab. Tasikmalaya</item>
+        <item>Kec. Togean, Kab. Tojo Una-Una, Sulawesi Tengah</item>
+        <item>Kec. Balocci, Kabupaten Pangkajene</item>
+        <item>Desa Rembitan, Pujut, Lombok Tengah</item>
+        <item>Kec. Ubud, Kab. Gianyar, Bali</item>
+        <item>Kec. Pujon, Kab. Malang</item>
+        <item>Desa Pasir Eurih, Kec. Taman Sari, Kab. Bogor</item>
+        <item>Kec. Patuk, Kab. Gunungkidul</item>
+        <item>Kp. Satar Lenda, Kec. Satar Mese, Kab. Manggarai Barat</item>
+        <item>Kec. Kubu, Kab. Bangli, Bali</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kampung Naga adalah sebuah desa adat Sunda yang terletak di Tasikmalaya, Jawa Barat. Desa ini terkenal dengan tradisi dan adat istiadatnya yang masih terjaga, seperti penggunaan pakaian tradisional, aturan adat yang ketat, dan sistem pertanian yang unik. </item>
+        <item>Kepulauan Togean adalah gugusan pulau yang terletak di Sulawesi Tengah. Kepulauan ini terkenal dengan keindahan alamnya yang masih asri, seperti pantai berpasir putih, air laut yang jernih, dan terumbu karang yang masih terjaga. </item>
+        <item>Desa Tompobulu adalah sebuah desa wisata yang terletak di Tana Toraja, Sulawesi Selatan. Desa ini terkenal dengan rumah adat Tongkonan yang unik dan tradisi pemakaman yang menarik.</item>
+        <item>Desa Sade adalah sebuah desa wisata yang terletak di Lombok, Nusa Tenggara Barat. Desa ini terkenal dengan suku Sasak yang masih menjaga tradisi dan adat istiadatnya, seperti pembuatan tenun ikat dan rumah adat Bale Lumbung</item>
+        <item>Desa Ubud adalah sebuah desa wisata yang terletak di Gianyar, Bali. Desa ini terkenal dengan seni dan budayanya yang kaya, seperti tari Kecak, tari Barong, dan berbagai galeri seni. </item>
+        <item>Desa Pujon Kidul adalah sebuah desa wisata yang terletak di Malang, Jawa Timur. Desa ini terkenal dengan agrowisata dan peternakannya, seperti wisata petik apel, wisata sapi perah, dan wisata edukasi. </item>
+        <item>Kampung Budaya Sindang Barang adalah sebuah desa wisata yang terletak di Bogor, Jawa Barat. Desa ini terkenal dengan budaya Sunda yang masih terjaga, seperti arsitektur tradisional, pertunjukan seni, dan kuliner khas Sunda. </item>
+        <item>Desa Nglanggeran adalah sebuah desa wisata yang terletak di Gunungkidul, Yogyakarta. Desa ini terkenal dengan wisata alamnya yang indah, seperti Gunung Api Purba Nglanggeran, Embung Nglanggeran, dan berbagai spot foto instagramable. </item>
+        <item>Desa Waerebo adalah sebuah desa wisata yang terletak di Flores, Nusa Tenggara Timur. Desa ini terkenal dengan rumah adat Mbaru Niang yang unik dan tradisi masyarakatnya yang masih terjaga. </item>
+        <item>Desa Penglipuran adalah sebuah desa wisata yang terletak di Bangli, Bali. Desa ini terkenal dengan tradisi dan adat istiadatnya yang masih terjaga, seperti arsitektur tradisional, sistem subak, dan keramahan penduduknya. </item>
+    </string-array>
+
+    <string-array name="data_unique_village">
+        <item>1. Keunikan Budaya: Kampung Naga masih memegang teguh adat istiadat dan budayanya yang leluhur, seperti menolak penggunaan listrik, teknologi modern, dan pakaian modern.\n
+            2. Keindahan Alam: Pemandangan alam yang indah dengan sawah hijau, perbukitan, dan sungai Ciwulan.\n
+            3. Kearifan Lokal: Kearifan lokal masyarakat Kampung Naga yang masih terjaga, seperti sistem gotong royong dan pelestarian alam.\n
+            4. Arsitektur Tradisional: Rumah adat Kampung Naga yang terbuat dari bambu dan beratap jerami.\n</item>
+        <item>1. Keindahan Alam: Kepulauan Togean memiliki pantai berpasir putih yang indah, air laut yang jernih, dan terumbu karang yang masih terjaga.\n
+            2. Keanekaragaman Hayati: Kepulauan Togean merupakan rumah bagi berbagai flora dan fauna endemik, seperti anoa, tarsius, dan burung maleo.\n
+            3. Budaya Suku Bajo: Pengunjung dapat belajar tentang budaya dan tradisi Suku Bajo, suku laut yang nomaden.\n
+            4. Situs Menyelam: Kepulauan Togean memiliki beberapa situs menyelam yang terkenal, seperti Taman Nasional Kepulauan Togean dan Pulau Una-Una.\n</item>
+        <item>1. Air Terjun Bantimurung: Air terjun bertingkat dengan ketinggian total 100 meter.\n
+            2. Taman Nasional Bantimurung Bulusaraung: Taman nasional dengan berbagai flora dan fauna endemik Sulawesi.\n
+            3. Gua Bantimurung: Gua dengan stalaktit dan stalakmit yang indah.\n
+            4. Situs Prasejarah Leang-Leang: Situs prasejarah dengan lukisan gua berusia ribuan tahun.\n
+            5. Hutan Pinus: Hutan pinus yang asri dan sejuk.\n
+            6. Agrowisata: Pengunjung dapat belajar dan melihat proses bertani kopi, kakao, dan tanaman lainnya</item>
+        <item>1. Keunikan Budaya: Desa Sade merupakan salah satu desa adat suku Sasak yang masih memegang teguh adat istiadat dan budayanya, seperti cara berpakaian, berumah tangga, dan bercocok tanam\n
+            2. Rumah Adat Bale Lumbung: Rumah adat Sasak yang terbuat dari bambu dan beratap alang-alang.\n
+            3. Keindahan Alam: Pemandangan alam yang indah dengan sawah hijau, perbukitan, dan Gunung Rinjani.\n
+            4. Kerajinan Tangan: Desa Sade terkenal dengan kerajinan tangan tenun ikat dan ukiran kayu yang khas.\n</item>
+        <item>1. Pusat Seni dan Budaya: Ubud dikenal sebagai pusat seni dan budaya Bali. Di sini terdapat banyak galeri seni, museum,\n
+            2. Keindahan Alam: Pemandangan alam yang indah dengan sawah hijau, perbukitan, dan hutan tropis.\n
+            3. Aktivitas Wisata: Ubud menawarkan berbagai aktivitas wisata, seperti trekking, yoga, spa, dan rafting.\n
+            4. Kuliner: Ubud terkenal dengan kulinernya yang khas, seperti bebek betutu dan lawar.\n</item>
+        <item>1. Keindahan Alam: Desa Pujon Kidul memiliki pemandangan alam yang indah dengan hamparan sawah hijau, perbukitan, dan Gunung Arjuna.\n
+            2. Agrowisata: Pengunjung dapat belajar tentang pertanian dan peternakan, serta memetik buah dan sayuran langsung dari kebun.\n
+            3. Kuliner: Desa Pujon Kidul terkenal dengan kulinernya yang khas, seperti nasi jagung dan bakso kelinci.\n
+            4. Aktivitas Wisata: Desa Pujon Kidul menawarkan berbagai aktivitas wisata, seperti trekking, flying fox, dan paintball.\n</item>
+        <item>1. Keindahan Arsitektur Tradisional: Rumah adat Sunda dengan atap ijuk dan bilik bambu, lumbung padi, dan bangunan bersejarah seperti Bale Atikan dan Saung Budaya\n
+            2. Kearifan Lokal yang Terjaga: Tradisi dan adat istiadat Sunda yang masih dilestarikan, seperti Seren Taun, Upacara Adat Kawin Cai, dan Mapag Sri\n
+            3. Pengalaman Budaya yang Beragam: Menyaksikan pertunjukan seni tradisional Sunda, belajar menari Jaipong, membatik, dan mencicipi kuliner khas Sunda\n
+            4. Keindahan Alam pedesaan: Pemandangan sawah yang luas, suasana pedesaan yang asri, dan udara segar\n
+            5. Aktivitas Wisata: Menjelajahi kampung dengan sepeda, trekking, berkemah, dan berfoto di spot-spot instagramable\n</item>
+        <item>1. Gunung Api Purba Nglanggeran: Gunung api purba yang berusia jutaan tahun dengan pemandangan yang menakjubkan\n
+            2. Embung Nglanggeran: Waduk buatan yang indah dengan air yang jernih dan dikelilingi perbukitan hijau\n
+            3. Situs Warungboto: Situs peninggalan Kerajaan Mataram yang memiliki nilai sejarah tinggi\n
+            4. Kampung Pitu: Perkampungan tradisional dengan arsitektur Jawa yang masih asri\n
+            5. Kearifan Lokal: Tradisi dan adat istiadat Jawa yang masih dilestarikan, seperti Sadranan, Upacara Adat Sedekah Laut, dan Upacara Adat Labuhan\n</item>
+        <item>
+            1. Rumah Adat Mbaru Niang: Rumah adat berbentuk kerucut yang unik dan menjadi simbol kebersamaan masyarakat Wae Rebo.\n
+            2. Keindahan Alam: Pemandangan alam yang indah dengan sawah hijau, perbukitan, dan Gunung Inerie.\n
+            3. Kearifan Lokal: Kearifan lokal masyarakat Wae Rebo yang masih terjaga, seperti tradisi Tuak Sepe dan Nggembe.\n
+            4. Budaya dan Kesenian: Budaya dan kesenian yang kaya, seperti Tari Ja\'i dan Tari Perang, serta kerajinan tangan tenun ikat dan ukiran kayu.\n</item>
+        <item>1. Dinobatkan jadi Desa Terbersih di Dunia\n
+            2. Tata Ruang Desa Berkonsep Tri Mandala\n
+            3. Hutan Bambu yang jadi Pelindung Desa\n
+            4. Memiliki Ritual Keagamaan yang Terus Dilakukan di Pura Luhur Penglipuran\n
+            5. Sajian Kuliner Unik Loloh Cemcem dan Tipat Cantok\n
+            6. Penglipuran Village Festival</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/desa_kampung_naga_tasikmalaya</item>
+        <item>@drawable/desa_togean_tojounauna</item>
+        <item>@drawable/desa_tompobulu_maros</item>
+        <item>@drawable/desa_sade_lombok</item>
+        <item>@drawable/desa_ubud_bali</item>
+        <item>@drawable/desa_pujon_kidul_malang</item>
+        <item>@drawable/desa_sindang_barang_kabbogor</item>
+        <item>@drawable/desa_nglanggeran_yogyakarta</item>
+        <item>@drawable/desa_waerebo_flores</item>
+        <item>@drawable/desa_penglipuran_bali</item>
+    </integer-array>
+
+</resources>
