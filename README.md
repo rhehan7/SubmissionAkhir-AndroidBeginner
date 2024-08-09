@@ -5,6 +5,12 @@ This is the beginner android final submission project in Dicoding Academy
 This application project is only for submission of Android Beginner Dicoding class, any form of plagiarism will be automatically detected if using this application project for submission. It is expected that this project is used as a learning reference and not for copy-paste project submission!!!
 
 # Screenshoot
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5142ff79-3486-4c50-91bc-9337c5df74f9" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/181efc7f-31f3-4459-901a-4ac9e693a66d" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1d8948e8-c5df-4114-904e-39d4a44110c3" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6877e1de-607d-4df1-928c-ed887248b2d0" alt="Screenshot 4" width="200"/>
+</p>
 
 # Features
 Here are the features I created to meet the submission criteria:<br>
@@ -14,20 +20,12 @@ Here are the features I created to meet the submission criteria:<br>
 - [x] Display relevant information (according to what the user clicks) & more complete on the detail page <br>
 - [x] Use card view to display the list <br>
 - [x] Implement the Share function on the detail page <br>
+- [x] Displays the about page which contains a photo, name, and email registered with Dicoding.
 
 # Installation
 Clone this repository and import into Android Studio <br>
-<pre class="shiki">
-	<code>
-		https://github.com/rhehan7/SubmissionAkhir-AndroidBeginner.git
-	</code>
-	<button class="button-copy-code">
-		<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="copy-docs-icon">
-			<path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path>
-			<path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-		</svg>
-	</button>
-</pre>
-
+```bash
+https://github.com/rhehan7/SubmissionAkhir-AndroidBeginner.git
+```
 # Auhor
 Rhehan Muzaky (rhehan7)
