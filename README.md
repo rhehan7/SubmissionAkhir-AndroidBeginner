@@ -5,12 +5,14 @@ This is the beginner android final submission project in Dicoding Academy
 This application project is only for submission of Android Beginner Dicoding class, any form of plagiarism will be automatically detected if using this application project for submission. It is expected that this project is used as a learning reference and not for copy-paste project submission!!!
 
 # Screenshoot
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5142ff79-3486-4c50-91bc-9337c5df74f9" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/user-attachments/assets/181efc7f-31f3-4459-901a-4ac9e693a66d" alt="Screenshot 2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1d8948e8-c5df-4114-904e-39d4a44110c3" alt="Screenshot 3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/6877e1de-607d-4df1-928c-ed887248b2d0" alt="Screenshot 4" width="200"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5142ff79-3486-4c50-91bc-9337c5df74f9" alt="Screenshot 1" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/181efc7f-31f3-4459-901a-4ac9e693a66d" alt="Screenshot 2" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1d8948e8-c5df-4114-904e-39d4a44110c3" alt="Screenshot 3" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6877e1de-607d-4df1-928c-ed887248b2d0" alt="Screenshot 4" width="200"/></td>
+  </tr>
+</table>
 
 # Features
 Here are the features I created to meet the submission criteria:<br>
