@@ -1,9 +1,6 @@
 # SubmissionAkhir-AndroidBeginner
 This is the beginner android final submission project in Dicoding Academy
 
-# Warning ⚠️
-This application project is only for submission of Android Beginner Dicoding class, any form of plagiarism will be automatically detected if using this application project for submission. It is expected that this project is used as a learning reference and not for copy-paste project submission!!!
-
 # Screenshoot
 <table>
   <tr>
@@ -29,5 +26,9 @@ Clone this repository and import into Android Studio <br>
 ```bash
 https://github.com/rhehan7/SubmissionAkhir-AndroidBeginner.git
 ```
+
+# Warning ⚠
+This application project is only for submission of Android Beginner Dicoding class, any form of plagiarism will be automatically detected if using this application project for submission. It is expected that this project is used as a learning reference and not for copy-paste project submission!!!
+
 # Auhor
 Rhehan Muzaky (rhehan7)
